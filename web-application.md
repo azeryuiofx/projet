@@ -29,6 +29,7 @@ echo 'You got to trust me on this, I saved the world'
 * Order
 * Is open
 * Social buttons
+* Blog page
 
 
 
