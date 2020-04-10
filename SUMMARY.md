@@ -6,4 +6,5 @@
 
 * [SEO](resources/learn.md)
 * [Documentation](resources/documentation.md)
+* [Web Application](web-application.md)
 
