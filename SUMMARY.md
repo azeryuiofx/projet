@@ -1,5 +1,8 @@
 # Table of contents
 
 * [Project](README.md)
-* [Learn](learn.md)
+
+## Resources
+
+* [SEO](resources/learn.md)
 
