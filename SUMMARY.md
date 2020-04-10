@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Projet](README.md)
+* [Project](README.md)
 * [Learn](learn.md)
 
