@@ -5,5 +5,5 @@
 ## Resources
 
 * [SEO](resources/learn.md)
-* [Documentation](documentation.md)
+* [Documentation](resources/documentation.md)
 
