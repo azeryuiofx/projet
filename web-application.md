@@ -31,5 +31,7 @@ echo 'You got to trust me on this, I saved the world'
 * Social buttons
 * Blog page
 
+### Hosting
 
+[https://www.netlify.com/](https://www.netlify.com/)
 
