@@ -8,5 +8,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=Ke90Tje7VS0" caption="Learn React fundamentals" %}
 
+### SQL
 
+[https://mode-resources.netlify.app/sql-tutorial/](https://mode-resources.netlify.app/sql-tutorial/)
 
