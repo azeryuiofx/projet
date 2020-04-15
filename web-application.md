@@ -31,6 +31,10 @@ echo 'You got to trust me on this, I saved the world'
 * Social buttons
 * Blog page
 
+### Architecture
+
+[https://www.netlify.com/jamstack/](https://www.netlify.com/jamstack/)
+
 ### Hosting
 
 [https://www.netlify.com/](https://www.netlify.com/)
